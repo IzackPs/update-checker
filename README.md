@@ -2,7 +2,7 @@ Versão 1.0.7
 - Ao clicar no preparar banco, ele pergunta se voce deseja truncar ou não a cadpar2
 
 
-
+Versão 1.0.6
 - Adicionado um novo botão para usuarios REC
 -  Comandos sql executados por esse botão
 ( 
