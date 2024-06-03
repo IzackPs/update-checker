@@ -4,18 +4,18 @@ Versão 1.1.0
 
 Versão 1.0.9
 
--bug de não atualizar corrigido. (o legal que ele nasceu quando eu resolvi os bugs anteriors, mas tudo bem)
+- bug de não atualizar corrigido. (o legal que ele nasceu quando eu resolvi os bugs anteriors, mas tudo bem)
 
 Versão 1.0.8
 
--BUGS CORRIGIDOS
+- BUGS CORRIGIDOS
 
 Versão 1.0.7
 - Ao clicar no preparar banco, ele pergunta se voce deseja truncar ou não a cadpar2
 
 Versão 1.0.6
 - Adicionado um novo botão para usuarios REC
--  Comandos sql executados por esse botão
+- Comandos sql executados por esse botão
 ( 
 
 INSERT INTO {usuarioSelecionado}.CADCAR (CCCODCAR, CCNOMCAR, CCTIPACE, CCALTPED02) VALUES (COALESCE((SELECT MAX(CCCODCAR) + 1 FROM {usuarioSelecionado}.CADCAR),1),'CARGOTESTE','2','N');
