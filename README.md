@@ -1,3 +1,7 @@
+Versão 1.1.0
+
+- mais bugs no atualizador e agora ele esalvo na appdata
+
 Versão 1.0.9
 
 -bug de não atualizar corrigido. (o legal que ele nasceu quando eu resolvi os bugs anteriors, mas tudo bem)
