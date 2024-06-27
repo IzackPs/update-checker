@@ -1,4 +1,4 @@
-Versão 1.1.1
+Versão 1.1.2
 
 - Adicionado digital.ini ao abrir o programa
 
