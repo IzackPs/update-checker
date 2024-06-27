@@ -1,3 +1,7 @@
+Versão 1.1.1
+
+- Adicionado digital.ini ao abrir o programa
+
 Versão 1.1.0
 
 - mais bugs no atualizador e agora ele esalvo na appdata
