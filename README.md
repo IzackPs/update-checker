@@ -1,3 +1,9 @@
+Versão 1.1.4
+
+- adicionado para selecionar o .ds2 na importacao de arquivos
+- removido filtro de maquina
+- melhor estabilidade
+
 Versão 1.1.3
 
 - KKKKKKKKKKKKKKKK
