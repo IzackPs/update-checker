@@ -1,4 +1,4 @@
-Versão 1.1.45
+Versão 1.1.5
 
 - Mudado metodo de descompressao do arquivo para metodo mais eficiente
 - Mudanca do .dot net para 4.8
