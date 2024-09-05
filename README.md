@@ -1,3 +1,9 @@
+Versão 1.1.45
+
+- Mudado metodo de descompressao do arquivo para metodo mais eficiente
+- Mudanca do .dot net para 4.8
+- Melhoria geral no codigo
+
 Versão 1.1.4
 
 - adicionado para selecionar o .ds2 na importacao de arquivos
