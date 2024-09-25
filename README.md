@@ -1,3 +1,8 @@
+Versão 1.1.6
+
+- Agora e possivel fazer fechamento diario de INC
+- Visual atualizado
+
 Versão 1.1.5
 
 - Mudado metodo de descompressao do arquivo para metodo mais eficiente
